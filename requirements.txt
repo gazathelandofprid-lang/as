@@ -1,2 +1,3 @@
-requests
-openai==0.28.0
+pyTelegramBotAPI
+flask
+requests8018653004
